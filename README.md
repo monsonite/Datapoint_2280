@@ -1,5 +1,7 @@
-# Datapoint_8800 *
-An exploration of how the Intel 8008, 8080, x86 and Zilog Z80 owe their heritage to the Datapoint 2200
+# Datapoint_2280 *
+An exploration of how the Intel 8008, 8080, x86 and Zilog Z80 owe their heritage to the Datapoint 2200.
+
+## Introduction
 
 In late 1969 Victor Poor and Harry Pyle, whilst working for Computer Terminal Corporation (CTC), designed a TTL bit-serial processor to control their new Datapoint 2200 programmable serial terminal.
 
@@ -19,9 +21,28 @@ It would scan the keyboard, store the ascii characters into memory, generate the
 
 It had twin cassette tape drives which were used for program and data storage. It completely removed the need for an electromechanical terminal and paper tape, such as the Teletype ASR33, which were slow, noisy and required regular mechanical servicing.
 
-Calling it a serial terminal or "Glass Teletype" is something of an understatement, upon reflection it was really more akin to the first modern desktop personal computer.
+CTC's first product was 2 years earlier, the Datapoint 3300. It was one o the first "Glass Teletypes" to appear on the market. It was called the 3300 because it took up the same desktop footprint as a Teletype Model 33 - and it was 100 times better!
 
-https://en.wikipedia.org/wiki/Datapoint_2200    
+Calling the 2200 a serial terminal or "Glass Teletype" is something of an understatement, upon reflection it was really more akin to the first modern desktop personal computer.
+
+https://en.wikipedia.org/wiki/Datapoint_2200
+
+* Datapoint did not build a processor called the 2280, but the 2200 was released in 2 versions. 
+
+I call this the 2280, because my exploration is a speculative historical insight into what could of evolved if the IC fabrication did to evolve to the point where they could put 5000 MOS transistors on a silicon die by 1971.
+
+CDC chose not to use the Intel 8008, and evolved their own TTL processors for each generation of their product. They continued to use 2200 instruction set compatible boards up until the mid-1980s.
+
+
+Version 1 was a bit-serial architecture, which used recirculating MOS shift register memory, and had a cycle time of up to 520uS. The 16-bit, 8 level stack was implemented using the first of the Intel NMOS SRAMs - the 3101.
+
+Version 2 used a parallel architecture, and used dynamic RAMs with 500nS access time.  It was about 5 times faster for non-memory referenced instructions, and up to 100 times faster for memory operations.
+
+It was the slow, and variable access time of the recirculating MOS shift-register RAM, which led to the Version 1 being designed with a rich register set. Frequently required data could be placed in a register rather than having to access the MOS SR-RAM.
+
+Both versions are covered in the 2200 Reference manual:
+
+https://github.com/Bread80/Datapoint2200/blob/main/2200_Reference_Manual.pdf
 
 It was this Version 1 processor which would later form the basis of the Intel 8008, instruction set and ultimately the 8080 and Z80.
 
