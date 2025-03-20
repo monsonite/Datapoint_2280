@@ -1,0 +1,4253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes/>
+      <pos x="2560" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3780" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3740" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2700" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2540" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74139.dig</elementName>
+      <elementAttributes/>
+      <pos x="3000" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="3140" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2980" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>IR6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>IR7</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3140" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPINC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPDEC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPSHIFT</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPRETcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPIMMALU</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPRST</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPIMMLD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPRET</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes/>
+      <pos x="2560" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2700" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2540" y="840"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes/>
+      <pos x="3000" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="3140" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2980" y="840"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes/>
+      <pos x="2160" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2120" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2120" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2120" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2300" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2140" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2520" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2520" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2960" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPJPcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPI/O0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPI/O1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="700"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPI/O2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPI/O3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="860"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPCALLcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPJPnn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="740"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPCALLnn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUADD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUADC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUSUB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUSBC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="700"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUAND</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="740"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUOR</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUXOR</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUCP</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3160" y="860"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGH</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGL</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREG(HL)</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes/>
+      <pos x="2160" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1900" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1900" y="600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1900" y="680"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2300" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2140" y="840"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREG(HL)</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="860"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="700"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="740"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGH</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGL</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2320" y="820"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3900" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3860" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3820" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3660" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR7</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3620" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3900" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3860" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3820" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3780" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3740" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3660" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3620" y="760"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NAnd</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1840" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1960" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1960" y="600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1960" y="680"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="440"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~TYPE3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes/>
+      <pos x="1780" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1840" y="440"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NAnd</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1840" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR7</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1760" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~OPLD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1980" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74540.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="1660" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="1660" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2020" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="1660" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="1700" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>CP</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1740" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>OR</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1780" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>XOR</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>AND</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1860" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>SBC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1900" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>SUB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1940" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>ADC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1980" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>ADD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2020" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74540.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3580" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="3580" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3940" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3580" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3620" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>(HL)</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3940" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>L</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3900" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>H</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3860" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>E</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3820" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>D</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3780" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3740" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>B</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>A</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3660" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUADD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1980" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUADC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1940" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUSUB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1900" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUSBC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1860" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUAND</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUOR</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1740" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUXOR</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1780" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~ALUCP</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1700" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3620" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3660" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3740" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3780" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGH</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3820" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREGL</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3860" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RDREG(HL)</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3900" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74540.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3140" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="3140" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3500" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3140" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3180" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>(HL)</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3500" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>L</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3460" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>H</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3420" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>E</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>D</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3340" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3300" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>B</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3260" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>A</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3220" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREG(HL)</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3460" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3180" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3220" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3260" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3300" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3340" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGH</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~WRREGL</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3420" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>LD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2180" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPLD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2140" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>INC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2220" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>DEC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2260" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPINC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2180" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPDEC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2220" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPJPcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2260" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPCALLcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2300" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPJPnn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2340" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPCALLnn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2380" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74540.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="2100" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>JPcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2300" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>CALLcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2340" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>JPnn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2380" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>CALLnn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2420" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2100" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2140" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2100" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2460" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2420" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPSHIFT</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RLCA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RRCA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RLA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RRA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RLCA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RRCA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3000" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RLA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3040" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~RRA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3080" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74540.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="2540" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="2540" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2900" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2540" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="2580" y="-160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3000" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3040" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="3080" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>RLCA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2960" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>RRCA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3000" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>RLA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3040" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>RRA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3080" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>NC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2620" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>NZ</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2660" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2700" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Z</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>PE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2780" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>PO</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2820" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>P</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2860" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>M</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2900" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="2500" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>LD IMM</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2500" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPIMMALU</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2060" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>IMM</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2060" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="2060" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPIMMLD</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2500" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Rectangle</elementName>
+      <elementAttributes>
+        <entry>
+          <string>RectBottom</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>RectHeight</string>
+          <int>62</int>
+        </entry>
+        <entry>
+          <string>RectInside</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>INSTRUCTION DECODER</string>
+        </entry>
+        <entry>
+          <string>RectWidth</string>
+          <int>120</int>
+        </entry>
+        <entry>
+          <string>RectRight</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1600" y="-360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>ALU OP</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="-340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>CONDITION</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2620" y="-340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>SHIFT</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2940" y="-340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>DESTINATION</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3200" y="-340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>SOURCE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3680" y="-340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>74138.dig</elementName>
+      <elementAttributes/>
+      <pos x="3540" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3500" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3500" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>IR5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3500" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="3520" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="3680" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~NC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~NZ</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~Z</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~PE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~PO</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~P</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>~M</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3700" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~NC</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2580" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~NZ</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2620" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2660" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~Z</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2700" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~PE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2740" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~PO</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2780" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~P</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2820" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~M</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2860" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPJPcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPCALLcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>~OPRETcc</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3380" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NAnd</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Inputs</string>
+          <int>3</int>
+        </entry>
+      </elementAttributes>
+      <pos x="3400" y="360"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="1940" y="640"/>
+      <p2 x="1960" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="1760" y="320"/>
+      <p2 x="1840" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="260"/>
+      <p2 x="2560" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="260"/>
+      <p2 x="2740" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="260"/>
+      <p2 x="3160" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="260"/>
+      <p2 x="3000" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="260"/>
+      <p2 x="2160" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="260"/>
+      <p2 x="2320" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="260"/>
+      <p2 x="3540" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="260"/>
+      <p2 x="3700" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="580"/>
+      <p2 x="2560" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="580"/>
+      <p2 x="2740" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="580"/>
+      <p2 x="3000" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="580"/>
+      <p2 x="3160" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="2060" y="580"/>
+      <p2 x="2160" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="580"/>
+      <p2 x="2320" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="1900" y="520"/>
+      <p2 x="1960" y="520"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="460"/>
+      <p2 x="2560" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="460"/>
+      <p2 x="2740" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="460"/>
+      <p2 x="3000" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="460"/>
+      <p2 x="3160" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="460"/>
+      <p2 x="2160" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="460"/>
+      <p2 x="2320" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="1920" y="460"/>
+      <p2 x="1940" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="3520" y="460"/>
+      <p2 x="3540" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="460"/>
+      <p2 x="3700" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="780"/>
+      <p2 x="2560" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="780"/>
+      <p2 x="2740" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="780"/>
+      <p2 x="3000" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="780"/>
+      <p2 x="3160" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="780"/>
+      <p2 x="2160" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="780"/>
+      <p2 x="2320" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="1760" y="400"/>
+      <p2 x="1840" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="3380" y="400"/>
+      <p2 x="3400" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="720"/>
+      <p2 x="1960" y="720"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="340"/>
+      <p2 x="3700" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="3520" y="340"/>
+      <p2 x="3540" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="340"/>
+      <p2 x="3160" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="340"/>
+      <p2 x="3000" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="340"/>
+      <p2 x="2740" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="340"/>
+      <p2 x="2560" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="340"/>
+      <p2 x="2320" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="340"/>
+      <p2 x="2160" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="660"/>
+      <p2 x="3160" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="660"/>
+      <p2 x="2980" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="660"/>
+      <p2 x="2540" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="660"/>
+      <p2 x="2740" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="660"/>
+      <p2 x="2320" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="660"/>
+      <p2 x="2160" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="660"/>
+      <p2 x="2560" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="660"/>
+      <p2 x="3000" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="1760" y="280"/>
+      <p2 x="1840" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1900" y="600"/>
+      <p2 x="1960" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="220"/>
+      <p2 x="3540" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="220"/>
+      <p2 x="3700" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="220"/>
+      <p2 x="3000" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="220"/>
+      <p2 x="3140" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="220"/>
+      <p2 x="2560" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="220"/>
+      <p2 x="2740" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="220"/>
+      <p2 x="2160" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="220"/>
+      <p2 x="2320" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="860"/>
+      <p2 x="3160" y="860"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="860"/>
+      <p2 x="2740" y="860"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="860"/>
+      <p2 x="2320" y="860"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="540"/>
+      <p2 x="3000" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="540"/>
+      <p2 x="3140" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="540"/>
+      <p2 x="2560" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="540"/>
+      <p2 x="2700" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="2040" y="540"/>
+      <p2 x="2160" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="540"/>
+      <p2 x="2300" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="1760" y="480"/>
+      <p2 x="1780" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="1820" y="480"/>
+      <p2 x="1840" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="420"/>
+      <p2 x="3540" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="420"/>
+      <p2 x="3700" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="420"/>
+      <p2 x="3160" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="420"/>
+      <p2 x="3000" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="420"/>
+      <p2 x="2560" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="420"/>
+      <p2 x="2740" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="420"/>
+      <p2 x="2160" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="420"/>
+      <p2 x="2320" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="740"/>
+      <p2 x="3160" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="740"/>
+      <p2 x="3000" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="740"/>
+      <p2 x="2740" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="740"/>
+      <p2 x="2560" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="740"/>
+      <p2 x="2320" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2100" y="740"/>
+      <p2 x="2160" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="3380" y="360"/>
+      <p2 x="3400" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="1760" y="360"/>
+      <p2 x="1840" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="1900" y="680"/>
+      <p2 x="1960" y="680"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="300"/>
+      <p2 x="3700" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="3520" y="300"/>
+      <p2 x="3540" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="300"/>
+      <p2 x="1980" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="300"/>
+      <p2 x="2320" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="300"/>
+      <p2 x="2160" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="300"/>
+      <p2 x="3160" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="300"/>
+      <p2 x="3000" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="300"/>
+      <p2 x="2740" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="300"/>
+      <p2 x="2540" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="300"/>
+      <p2 x="2560" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="2080" y="620"/>
+      <p2 x="2160" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="620"/>
+      <p2 x="2320" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="2040" y="620"/>
+      <p2 x="2060" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="620"/>
+      <p2 x="3000" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="620"/>
+      <p2 x="3160" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="620"/>
+      <p2 x="2560" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="620"/>
+      <p2 x="2740" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="560"/>
+      <p2 x="1960" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="500"/>
+      <p2 x="3700" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="500"/>
+      <p2 x="2320" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="500"/>
+      <p2 x="2740" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="180"/>
+      <p2 x="3540" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="180"/>
+      <p2 x="3680" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="180"/>
+      <p2 x="2160" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="180"/>
+      <p2 x="2300" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="180"/>
+      <p2 x="3000" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="180"/>
+      <p2 x="3140" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="180"/>
+      <p2 x="2560" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="180"/>
+      <p2 x="2700" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="820"/>
+      <p2 x="2160" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="820"/>
+      <p2 x="2320" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="820"/>
+      <p2 x="3000" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="820"/>
+      <p2 x="3160" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="820"/>
+      <p2 x="2560" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="820"/>
+      <p2 x="2740" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="1760" y="440"/>
+      <p2 x="1840" y="440"/>
+    </wire>
+    <wire>
+      <p1 x="3380" y="380"/>
+      <p2 x="3400" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="380"/>
+      <p2 x="3700" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="380"/>
+      <p2 x="3540" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="380"/>
+      <p2 x="2320" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="380"/>
+      <p2 x="2100" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="380"/>
+      <p2 x="3160" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="380"/>
+      <p2 x="3000" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="380"/>
+      <p2 x="2740" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="380"/>
+      <p2 x="2560" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2100" y="380"/>
+      <p2 x="2160" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2280" y="700"/>
+      <p2 x="2320" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="700"/>
+      <p2 x="2160" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2040" y="700"/>
+      <p2 x="2080" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="3120" y="700"/>
+      <p2 x="3160" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="700"/>
+      <p2 x="3000" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2680" y="700"/>
+      <p2 x="2740" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="700"/>
+      <p2 x="2560" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="3460" y="-20"/>
+      <p2 x="3460" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3460" y="-180"/>
+      <p2 x="3460" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2820" y="-180"/>
+      <p2 x="2820" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2820" y="-20"/>
+      <p2 x="2820" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2180" y="-180"/>
+      <p2 x="2180" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2180" y="-20"/>
+      <p2 x="2180" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3080" y="-60"/>
+      <p2 x="3080" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3080" y="-180"/>
+      <p2 x="3080" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="2060" y="580"/>
+      <p2 x="2060" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="2060" y="-180"/>
+      <p2 x="2060" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="2060" y="-60"/>
+      <p2 x="2060" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3340" y="-180"/>
+      <p2 x="3340" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3340" y="-20"/>
+      <p2 x="3340" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2700" y="-180"/>
+      <p2 x="2700" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2700" y="-20"/>
+      <p2 x="2700" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2700" y="160"/>
+      <p2 x="2700" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2700" y="520"/>
+      <p2 x="2700" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="-60"/>
+      <p2 x="2960" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="-180"/>
+      <p2 x="2960" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="780"/>
+      <p2 x="2960" y="860"/>
+    </wire>
+    <wire>
+      <p1 x="2960" y="720"/>
+      <p2 x="2960" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2580" y="-20"/>
+      <p2 x="2580" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2580" y="-160"/>
+      <p2 x="2580" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="460"/>
+      <p2 x="1940" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="-180"/>
+      <p2 x="1940" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="-20"/>
+      <p2 x="1940" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="560"/>
+      <p2 x="1940" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="1940" y="640"/>
+      <p2 x="1940" y="720"/>
+    </wire>
+    <wire>
+      <p1 x="3860" y="-180"/>
+      <p2 x="3860" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3860" y="-20"/>
+      <p2 x="3860" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3860" y="720"/>
+      <p2 x="3860" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="3220" y="-180"/>
+      <p2 x="3220" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3220" y="-20"/>
+      <p2 x="3220" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3740" y="-180"/>
+      <p2 x="3740" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3740" y="-20"/>
+      <p2 x="3740" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3740" y="720"/>
+      <p2 x="3740" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="1820" y="-180"/>
+      <p2 x="1820" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1820" y="-20"/>
+      <p2 x="1820" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2460" y="-20"/>
+      <p2 x="2460" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="2080" y="620"/>
+      <p2 x="2080" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="3620" y="-160"/>
+      <p2 x="3620" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3620" y="-20"/>
+      <p2 x="3620" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3620" y="720"/>
+      <p2 x="3620" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="1700" y="-160"/>
+      <p2 x="1700" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1700" y="-20"/>
+      <p2 x="1700" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2340" y="-20"/>
+      <p2 x="2340" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2340" y="-180"/>
+      <p2 x="2340" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="460"/>
+      <p2 x="2980" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="820"/>
+      <p2 x="2980" y="840"/>
+    </wire>
+    <wire>
+      <p1 x="2980" y="660"/>
+      <p2 x="2980" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="-180"/>
+      <p2 x="3500" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="-20"/>
+      <p2 x="3500" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="420"/>
+      <p2 x="3500" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="2220" y="-180"/>
+      <p2 x="2220" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2220" y="-20"/>
+      <p2 x="2220" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2860" y="-180"/>
+      <p2 x="2860" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2860" y="-20"/>
+      <p2 x="2860" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2740" y="-20"/>
+      <p2 x="2740" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2740" y="-180"/>
+      <p2 x="2740" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3380" y="-20"/>
+      <p2 x="3380" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3380" y="-180"/>
+      <p2 x="3380" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2100" y="380"/>
+      <p2 x="2100" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2100" y="-160"/>
+      <p2 x="2100" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2100" y="-20"/>
+      <p2 x="2100" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="3000" y="-60"/>
+      <p2 x="3000" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3000" y="-180"/>
+      <p2 x="3000" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="2620" y="-20"/>
+      <p2 x="2620" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2620" y="-180"/>
+      <p2 x="2620" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3900" y="720"/>
+      <p2 x="3900" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="3900" y="-20"/>
+      <p2 x="3900" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3900" y="-180"/>
+      <p2 x="3900" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3260" y="-20"/>
+      <p2 x="3260" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3260" y="-180"/>
+      <p2 x="3260" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1980" y="-180"/>
+      <p2 x="1980" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1980" y="-20"/>
+      <p2 x="1980" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3520" y="300"/>
+      <p2 x="3520" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="3520" y="460"/>
+      <p2 x="3520" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="3520" y="340"/>
+      <p2 x="3520" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="3780" y="720"/>
+      <p2 x="3780" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="3780" y="-180"/>
+      <p2 x="3780" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3780" y="-20"/>
+      <p2 x="3780" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3140" y="-160"/>
+      <p2 x="3140" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3140" y="-20"/>
+      <p2 x="3140" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="3140" y="520"/>
+      <p2 x="3140" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="3140" y="160"/>
+      <p2 x="3140" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="3140" y="220"/>
+      <p2 x="3140" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="1860" y="-180"/>
+      <p2 x="1860" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1860" y="-20"/>
+      <p2 x="1860" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2500" y="-60"/>
+      <p2 x="2500" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2500" y="-180"/>
+      <p2 x="2500" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="420"/>
+      <p2 x="2120" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="2120" y="780"/>
+      <p2 x="2120" y="860"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="720"/>
+      <p2 x="3660" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="-180"/>
+      <p2 x="3660" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3660" y="-20"/>
+      <p2 x="3660" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="1740" y="-180"/>
+      <p2 x="1740" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1740" y="-20"/>
+      <p2 x="1740" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2380" y="-20"/>
+      <p2 x="2380" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2380" y="-180"/>
+      <p2 x="2380" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2260" y="-180"/>
+      <p2 x="2260" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2260" y="-20"/>
+      <p2 x="2260" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2900" y="-20"/>
+      <p2 x="2900" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="2900" y="-180"/>
+      <p2 x="2900" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="420"/>
+      <p2 x="2520" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="780"/>
+      <p2 x="2520" y="860"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="360"/>
+      <p2 x="2520" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="2520" y="720"/>
+      <p2 x="2520" y="740"/>
+    </wire>
+    <wire>
+      <p1 x="2780" y="-20"/>
+      <p2 x="2780" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2780" y="-180"/>
+      <p2 x="2780" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="-20"/>
+      <p2 x="2140" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="-160"/>
+      <p2 x="2140" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="300"/>
+      <p2 x="2140" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="660"/>
+      <p2 x="2140" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="820"/>
+      <p2 x="2140" y="840"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="340"/>
+      <p2 x="2140" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="460"/>
+      <p2 x="2140" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="2140" y="700"/>
+      <p2 x="2140" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="3420" y="-20"/>
+      <p2 x="3420" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3420" y="-180"/>
+      <p2 x="3420" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3680" y="160"/>
+      <p2 x="3680" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="3040" y="-60"/>
+      <p2 x="3040" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3040" y="-180"/>
+      <p2 x="3040" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="2660" y="-20"/>
+      <p2 x="2660" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="2660" y="-180"/>
+      <p2 x="2660" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2020" y="-20"/>
+      <p2 x="2020" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="2020" y="-180"/>
+      <p2 x="2020" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3300" y="-20"/>
+      <p2 x="3300" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3300" y="-180"/>
+      <p2 x="3300" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3940" y="-180"/>
+      <p2 x="3940" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3940" y="-20"/>
+      <p2 x="3940" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="460"/>
+      <p2 x="2540" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="820"/>
+      <p2 x="2540" y="840"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="300"/>
+      <p2 x="2540" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="660"/>
+      <p2 x="2540" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="-160"/>
+      <p2 x="2540" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2540" y="-20"/>
+      <p2 x="2540" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="1900" y="-180"/>
+      <p2 x="1900" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1900" y="-20"/>
+      <p2 x="1900" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3820" y="720"/>
+      <p2 x="3820" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="3820" y="-20"/>
+      <p2 x="3820" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3820" y="-180"/>
+      <p2 x="3820" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3180" y="-20"/>
+      <p2 x="3180" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3180" y="-160"/>
+      <p2 x="3180" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1780" y="-180"/>
+      <p2 x="1780" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1780" y="-20"/>
+      <p2 x="1780" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2420" y="-180"/>
+      <p2 x="2420" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2420" y="-20"/>
+      <p2 x="2420" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="3700" y="720"/>
+      <p2 x="3700" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="3700" y="-20"/>
+      <p2 x="3700" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="3700" y="-180"/>
+      <p2 x="3700" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1660" y="-160"/>
+      <p2 x="1660" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="1660" y="-20"/>
+      <p2 x="1660" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="2300" y="-20"/>
+      <p2 x="2300" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="2300" y="-180"/>
+      <p2 x="2300" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="2300" y="160"/>
+      <p2 x="2300" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="2300" y="520"/>
+      <p2 x="2300" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="3580" y="-160"/>
+      <p2 x="3580" y="-140"/>
+    </wire>
+    <wire>
+      <p1 x="3580" y="-20"/>
+      <p2 x="3580" y="0"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
